@@ -1,4 +1,4 @@
-# account-segmentation-rfm
+# Account Segmentation (RFM)
 
 Which accounts are worth protecting, which are worth growing, and which aren’t worth spending on?
 
@@ -6,7 +6,7 @@ Which accounts are worth protecting, which are worth growing, and which aren’t
 
 1 Nov 2020 – 25 Feb 2021. 4,463 accounts with at least one email open. Each scored 1–3 on recency, frequency and monetary value; the sum (3–9) splits them into Top (8–9), Middle (5–7) and Lost (3–4).
 
-#### The main finding
+#### Main findings
 
 - On average **Top account brings \$135** - **8 times more than a Lost one** \$16 on average. Top users are more valuable.
 
